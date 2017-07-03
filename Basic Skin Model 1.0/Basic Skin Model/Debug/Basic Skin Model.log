@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\_3rdyearproject\basic skin model\basic skin model\main.cpp(132): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\_3rdyearproject\basic skin model\basic skin model\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\_3rdyearproject\basic skin model\basic skin model\main.cpp(134): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\_3rdyearproject\basic skin model\basic skin model\main.cpp(135): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Basic Skin Model.vcxproj -> E:\_3rdYearProject\Basic Skin Model\Debug\Basic Skin Model.exe
+  Basic Skin Model.vcxproj -> E:\_3rdYearProject\Basic Skin Model\Debug\Basic Skin Model.pdb (Partial PDB)
